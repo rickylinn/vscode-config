@@ -1,0 +1,30 @@
+{
+    "breadcrumbs.enabled": false,
+    "workbench.startupEditor": "none",
+    "workbench.statusBar.visible": true,
+    "workbench.tree.indent": 18,
+    "workbench.tree.enableStickyScroll": false,
+    "editor.stickyScroll.enabled": false,
+    "workbench.colorTheme": "Bearded Theme Arc",
+    "workbench.iconTheme": "vscode-great-icons",
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "JetBrains Mono Light",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 2.3,
+    "editor.wordWrap": "on",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.lineHeight": 1.5,
+    "terminal.integrated.fontFamily": "JetBrains Mono Light",
+    "extensions.ignoreRecommendations": true,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "javascript": false
+    },
+    "explorer.compactFolders": false,
+    "git.openRepositoryInParentFolders": "never",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true
+}
